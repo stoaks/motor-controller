@@ -1,5 +1,5 @@
 {
-    "name": "Motor Controller",
+    "name": "Motor Controller Receiver",
     "description": "",
     "dependencies": {
         "core": "*",
